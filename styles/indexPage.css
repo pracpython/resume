@@ -1,0 +1,118 @@
+.descriptionText{
+    color: white;
+    font-size: 24px;
+    text-align: justify;
+    
+}
+
+.edskillContainer{
+    position: relative;
+    height: 400px;
+}
+
+.projectContainer{
+    position: relative;
+}
+
+.myDescription{
+    background-color: #395B64;
+    border-radius: 25px;
+    padding: 2%;
+}
+
+.myEducation{
+    background-color: #395B64;
+    border-radius: 25px;
+    bottom: 5%;
+    color: #E7F6F2;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 1%;
+    padding: 1%;
+    position: absolute;
+    width: 50%;
+}
+
+.mySkills{
+    background-color: white;
+    border-radius: 25px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1%;
+    position: absolute;
+    right: 1%;
+    top: 5%;
+    width: 50%;
+}
+
+.myProjects{
+    border-radius: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    height: 500px;
+}
+
+.myContact{
+    background-color: #E7F6F2;
+    border-radius: 25px;
+    padding: 1%;    
+    text-align: center;
+}
+
+.projectSet-1{
+    background-color: #395B64;
+    border-radius: 10px;
+    bottom: 10%;
+    color: #E7F6F2;
+    font-size: larger;
+    line-height: 35px;
+    left: 1%;
+    padding: 3%;
+    position: absolute;
+    text-align: justify;
+    width: 60%;
+}
+
+.projectSet-2{
+    background-color:white;
+    border-radius: 10px;
+    color:black;
+    font-size: larger;
+    line-height: 35px;
+    padding: 3%;
+    position: absolute;
+    right: 1%;
+    top: 20%;
+    text-align: justify;
+    width: 65%;
+}
+
+
+
+
+
+body{
+    background-color:#2C3333;
+}
+
+h3{
+    color: #A5C9CA;
+}
+
+h2{
+    color: #E7F6F2;
+}
+
+h1{
+    color: #E7F6F2;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 2px; 
+    color: #395B64;
+    width: 20%;
+}
+
+
